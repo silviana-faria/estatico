@@ -1,4 +1,6 @@
-## Caracterização - Dados abertos são:
+## Caracterização
+
+Dados abertos são:
 
 dados públicos representados em meio digital;
 
@@ -10,7 +12,9 @@ referenciados na rede mundial de computadores;
 
 disponibilizados sob licença aberta que permita sua livre reutilização, consumo ou cruzamento em aplicações digitais desenvolvidas pela sociedade.
 
-## Base Legal - Seu conceito e utilização estão previstos:
+## Base Legal
+
+Seu conceito e utilização estão previstos:
 
 na Lei de Acesso à Informação (Lei 12.527/2011);
 
