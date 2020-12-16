@@ -32,7 +32,7 @@ Este [vídeo introdutório](https://www.youtube.com/embed/tZ0bmlnqMuY) reproduz 
 
 Conheça mais um pouco sobre a importância dos dados abertos, suas diferenças e complementaridades com o Portal da Transparência no [17º episódio do **PodeFalar!**](https://www.youtube.com/watch?v=uFdYbIc_4ws), o nosso podcast da CGE, em que a Subsecretária de Transparência e Integridade, Nicolle Bleme, conversou com a Diretora-Executiva da Open Knowledge Brasil, Fernanda Campagnucci.
 
-
+Acesse [aqui](http://www.transparencia.mg.gov.br/) o Portal da Transparência do Estado de Minas Gerais.
 
 
 
