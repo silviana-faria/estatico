@@ -16,11 +16,11 @@ Dados abertos são:
 
 Seu conceito e utilização estão previstos:
 
-- na Lei de Acesso à Informação (Lei 12.527/2011);
+- na Lei de Acesso à Informação (Lei Federal nº 12.527/2011);
 
-- no Decreto Estadual 45969/2012;
+- no Decreto Estadual nº 45.969/2012;
 
-- e na Resolução 20, de 6/8/2014, da CGE.
+- e na Resolução CGE nº 20/2014.
 
 ## Arquitetura 
 
@@ -30,9 +30,9 @@ A oficina _"Dados abertos sem fricção"_ ([vídeo](https://www.youtube.com/watc
 
 ## Saiba Mais
 
-Conheça mais um pouco sobre a importância dos dados abertos, suas diferenças e complementaridades com o Portal da Transparência no [17º episódio do **PodeFalar!**](https://www.youtube.com/watch?v=uFdYbIc_4ws), o nosso podcast da CGE, em que a Subsecretária de Transparência e Integridade, Nicolle Bleme, conversou com a Diretora-Executiva da Open Knowledge Brasil, Fernanda Campagnucci.
+Conheça mais um pouco sobre a importância dos dados abertos, suas diferenças e complementaridades com o Portal da Transparência no [17º episódio do **PodeFalar!**](https://www.youtube.com/watch?v=uFdYbIc_4ws), o nosso podcast da CGE, em que a Subcontroladora de Transparência e Integridade, Nicolle Bleme, conversou com a Diretora-Executiva da Open Knowledge Brasil, Fernanda Campagnucci.
 
-Acesse [aqui](http://www.transparencia.mg.gov.br/) o Portal da Transparência do Estado de Minas Gerais.
+[Clique aqui](http://www.transparencia.mg.gov.br/) e conheça o Portal da Transparência do Estado de Minas Gerais.
 
 
 
